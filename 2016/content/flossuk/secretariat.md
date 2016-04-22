@@ -15,7 +15,7 @@ write ups on the event and photographs later in this Newsletter.
 The event was kindly sponsored by Google, CHEF, ELIGO Recruitment and our Sponsor
 members SUSE and 2nd Quadrant Ltd.
 
-Our next event is the BarCamp - see page ........ This annual event is again being held in
+Our next event is the BarCamp. This annual event is again being held in
 Birmingham.
 
 Please note our Annual General Meeting will be held in London on Wednesday 21st
