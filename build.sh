@@ -31,6 +31,7 @@ sed -s '$a\\n----\n' content/articles/*.md >> output/newsletter.md
 sed -s '$a\\n----\n' content/book-reviews/*.md >> output/newsletter.md
 
 # 6. Contributors page in ascending order of author surname
+sed -s '$a\\n\n' content/contributors/*.md >> output/newsletter.md
 
 # 7. Contact pages in ascending order of author surname
 
