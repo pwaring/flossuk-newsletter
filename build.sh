@@ -3,7 +3,7 @@
 set -u
 set -e
 
-export NEWSLETTER_YEAR=${NEWSLETTER_YEAR:-}
+NEWSLETTER_YEAR=$1
 
 if [ -z ${NEWSLETTER_YEAR} ]; then
   echo "No newsletter year specified"
