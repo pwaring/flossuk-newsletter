@@ -1,6 +1,12 @@
 # Information Architecture, 4th Edition
 
-## Lindsay Marshall
+**Author:** Louis Rosenfeld, Peter Morville, Jorge Arango  
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4919-1168-6  
+**Pages:** 486  
+**Price:** £25.50  
+**Published:** October 2015  
+**Reviewed by:** Lindsay Marshall
 
 I’m pretty sure I reviewed the first edition of this book back in 1998, but  the
 architecture of my information archive is such that I can’t easily locate that text -
