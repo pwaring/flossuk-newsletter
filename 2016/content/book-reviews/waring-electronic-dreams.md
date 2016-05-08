@@ -1,6 +1,12 @@
 # Electronic Dreams
 
-## Paul Waring
+**Authors:** Tom Lean  
+**Publisher:** Bloomsbury Sigma  
+**IBSN:** 978-1472918338  
+**Pages:** 288  
+**Price:** £15.00  
+**Published:** February 2016  
+**Reviewed by:** Paul Waring
 
 *Disclosure: I was at university with the author of Electronic Dreams - though
 I still had to pay full price for my copy of the book!*
