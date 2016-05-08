@@ -1,6 +1,12 @@
 # You don't know JS: ES6 and Beyond
 
-## Charlie Harvey
+**Author:** Kyle Simpson
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4919-0424-4
+**Pages:** 278  
+**Price:** £11.50  
+**Published:** December 2015  
+**Reviewed by:** Charlie Harvey
 
 Now that JavaScript has become the defacto virtual machine of the web and modern browsers make up a significant part of the market, it is both desirable and possible for the language to develop further. Hence the finalization of the ECMAScript 6[^ecmascript] in June 2015. And hence also a crop of books, this one included, covering the new language features.
 
