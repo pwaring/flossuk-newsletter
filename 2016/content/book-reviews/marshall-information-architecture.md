@@ -1,6 +1,6 @@
 # Information Architecture, 4th Edition
 
-**Author:** Louis Rosenfeld, Peter Morville, Jorge Arango  
+**Authors:** Louis Rosenfeld, Peter Morville, Jorge Arango  
 **Publisher:** O'Reilly  
 **IBSN:** 978-1-4919-1168-6  
 **Pages:** 486  
