@@ -371,4 +371,4 @@ On the way to DevOps 2017 there are a number of FLOSS events this year. There wi
 
 DevOps is now the buzzword for what would have been programmatic system administration. The field seems new but is in fact mature and this is reflected in the quality, breadth and depth of the presentations and workshops at the FLOSS conference. The videos of the talks will be available on the FLOSS YouTube channel[^flossuk-youtube] in the coming weeks.
 
-[^flossuk-youtube]: http://www.flossuk.org/youtube
+[^flossuk-youtube]: [http://www.flossuk.org/youtube](http://www.flossuk.org/youtube)
