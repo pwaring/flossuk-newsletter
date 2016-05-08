@@ -1,6 +1,12 @@
 # UX for Beginners (A Crash Course in 100 Short Lessons)
 
-## Lindsay Marshall
+**Author:** Joel Marsh  
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4919-1268-3  
+**Pages:** 256  
+**Price:** £20.00  
+**Published:** December 2015  
+**Reviewed by:** Lindsay Marshall
 
 There’s a lot to like about this book, but also things you might dislike. The genesis of
 the book was an internal mailing list, and then a blog, and then an email-based short
