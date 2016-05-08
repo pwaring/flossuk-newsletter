@@ -1,6 +1,12 @@
 # C in a Nutshell
 
-## Paul Waring
+**Authors:** Peter Prinz, Tony Crawford  
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4919-0475-6  
+**Pages:** 824  
+**Price:** £28.00  
+**Published:** December 2015  
+**Reviewed by:** Paul Waring
 
 The O'Reilly 'in a Nutshell' series are reference works, describing the details
 of a particular topic with examples. As it made clear up front, this is not
