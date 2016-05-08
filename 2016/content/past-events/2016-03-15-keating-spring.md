@@ -52,6 +52,8 @@ Disclaimer: The following are a description of a presentation with some dissecti
 
 Mandi is a software developer currently working for Chef in London, the talk wasn’t about Chef though, it was about the Open Source world and our part within. Mandi started with a discussion of an early large HP conference that she attended. The event had a number of communities gathered together to discuss a certain topic, however they were still segregated, this is an attitude that still persists today. We might have shared features but we remain tribal about our software choices.
 
+![Mandi starts the conference with the opening keynote](images/opening-talk.jpg)
+
 The world itself has changed, when you meet people today there is a sea change from the days of massive, expensive, and singular control systems to smaller, cheaper, multiple systems that are deployed and made to interact with each other via open APIs.
 
 Part of this change has been at the behest of the adoption to Open Source, OS software is now a dominant player in many larger systems, corporations and projects. It has taken over from proprietary systems. This gives rise to the idea that:
@@ -310,6 +312,8 @@ Dawn’s talk was sensible, empathetic and thoughtful. It was clear that she had
 ### Data Revolution Catalyst: Lameck Amugongo
 
 Lameck, who currently works in Germany, is originally from Namibia and still participates heavily in the open source and open data movements in his home country. Namibia is on the cusp of a new era in how it deals with open access with strong movements from their government towards empowering people using open standards.
+
+![Lameck prepares to deliver the closing talk](images/closing-talk.jpg)
 
 >We need data for everything
 
