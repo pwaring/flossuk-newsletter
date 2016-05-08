@@ -1,6 +1,12 @@
 # Learning MySQL and MariaDB
 
-## Charlie Harvey
+**Author:** Russell J.T. Dyer  
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4493-6290-4  
+**Pages:** 408  
+**Price:** £23.00  
+**Published:** March 2015  
+**Reviewed by:** Charlie Harvey
 
 One of O'Reilly's excellent "red" series of database books, this is a comprehensive primer on using both MySQL (now owned by Oracle) and MariaDB. MariaDB is a community effort started by MySQL's original creator Monty Widenius, who also supplies a foreword for the book.
 
