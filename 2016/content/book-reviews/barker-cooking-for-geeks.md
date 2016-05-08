@@ -1,6 +1,12 @@
 # Cooking for Geeks, 2nd Edition
 
-## Nigel Barker
+**Author:** Jeff Potter  
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4919-2805-9  
+**Pages:** 488  
+**Price:** £22.50  
+**Published:** October 2015  
+**Reviewed by:** Nigel Barker
 
 Do cookery and geekery go hand in hand? O'Reilly think so and indeed the first edition of this book sold more than 100,000 copies. I fit in that target demographic, but although the book was on my wants list, I never actually picked one up until this second edition which comes with 150 pages of new material.
 
