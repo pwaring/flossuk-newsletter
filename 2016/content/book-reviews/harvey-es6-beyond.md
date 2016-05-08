@@ -1,8 +1,8 @@
 # You don't know JS: ES6 and Beyond
 
-**Author:** Kyle Simpson
+**Author:** Kyle Simpson  
 **Publisher:** O'Reilly  
-**IBSN:** 978-1-4919-0424-4
+**IBSN:** 978-1-4919-0424-4  
 **Pages:** 278  
 **Price:** £11.50  
 **Published:** December 2015  
