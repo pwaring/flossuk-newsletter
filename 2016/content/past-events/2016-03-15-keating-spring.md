@@ -6,7 +6,7 @@ This is a general impression of the recent FLOSS UK event that I attended. I sho
 
 The 2016 FLOSS UK Spring DevOps Conference was held in London at the historic Mary Ward House between 15th-17th March. This year’s conference could have held the subtitle of 'configuration management and communities’ as there was a strong undercurrent of both. The spring conference is special to the members of FLOSS UK as it is the oldest DevOps event of this type in the UK, by which we mean dedicated more to systems than programming alone -- though that is not a strongly defined prerequisite.
 
-### Changesmaybe
+### Changes
 
 In the build-up to the event the FLOSS UK Council undertook a couple of new moves as they continue a transition from supporting just Open Source Software to supporting openness across a number of disciplines such as data, hardware, rights and standards. This is reflected in their new tagline Open Technology and the notion that FLOSS has evolved to mean Free and Libre Open Source Systems to reflect the changing world.
 
