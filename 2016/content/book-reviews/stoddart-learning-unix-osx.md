@@ -1,6 +1,12 @@
-# Learning Unix for OS X
+# Learning Unix for OS X, 2nd Edition
 
-## Chris Stoddart
+**Author:** Dave Taylor  
+**Publisher:** O'Reilly  
+**IBSN:** 978-1-4919-3998-7  
+**Pages:** 238  
+**Price:** £15.50  
+**Published:** February 2016  
+**Reviewed by:** Chris Stoddart
 
 The Unix command line is where I spend my working day; my desk is dominated by two large Linux monitors with a MacBook alongside for watching email and keeping me awake when I take it to meetings. However, in common with many other Mac users, I only occasionally venture into the Mac’s terminal and even more rarely into its command line. I was therefore looking forward to reading this book as a spur towards using my MacBook in a more creative way.
 
