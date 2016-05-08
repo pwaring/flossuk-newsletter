@@ -1,4 +1,4 @@
-# Spring 2016 review
+# Spring 2016 conference review II
 
 ## Kenneth MacDonald
 
@@ -28,7 +28,7 @@ PostgreSQL and introduced the new, powerful and extensible logical
 replication features currently under development.
 
 Craig Gallen (OpenNMS developer) highlighted the problems of using RRD
-files for large scale network monitoring systems - it's primary
+files for large scale network monitoring systems - its primary
 function was to be efficient when reading, not writing data.  He
 described the changes made in OpenNMS to enable the operator to choose
 between RRD files or a Cassandra database without loosing any of the
@@ -99,4 +99,3 @@ others were as good as those I sat through, then all the delegates
 were treated to a wide ranging, entertaining and informative diet.
 
 I am looking forward to meeting you all again in Manchester next year!
-
