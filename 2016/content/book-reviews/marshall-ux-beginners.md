@@ -3,15 +3,15 @@
 ## Lindsay Marshall
 
 There’s a lot to like about this book, but also things you might dislike. The genesis of
-the book was an internal mailing list, and then a blog, and then an email based short
-course, and these lead to the 100 short lessons of the title. Mostly these are a one or
+the book was an internal mailing list, and then a blog, and then an email-based short
+course, and these lead to the 100 short lessons of the title. Mostly these are one or
 two pages of text with a small number running over more, though these usually
 contain several illustrations rather than more words. The aim is to cover every aspect
 of UX at some level and the book definitely does that, giving sound information and
 with illustrative stories from the author’s own experiences. There’s lots of good
-background information draw from psychology and HCI research, all of it presented in
-digestible chunks that don’t demand previous technical knowledge. The more design
-oriented sections work in the same way, presenting the bits of standard graphic design
+background information drawn from psychology and HCI research, all of it presented in
+digestible chunks that don’t demand previous technical knowledge. The more
+design-oriented sections work in the same way, presenting the bits of standard graphic design
 knowledge that are relevant. There’s useful material on content creation,
 measurement and business aspects as well.
 
@@ -36,5 +36,5 @@ also have liked to see many more pointers to places that I could read about a to
 depth. You don’t stay a beginner forever and you want ways to move on.
 
 All that being said, I would probably recommend this book to my students as an all-
-round introduction, but at at nearly £20. very few of them would take it up. Pricing is
+round introduction, but at at nearly £20, very few of them would take it up. Pricing is
 part of UX too.
