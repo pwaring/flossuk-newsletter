@@ -10,7 +10,7 @@
 
 Now that JavaScript has become the defacto virtual machine of the web and modern browsers make up a significant part of the market, it is both desirable and possible for the language to develop further. Hence the finalization of the ECMAScript 6[^ecmascript] in June 2015. And hence also a crop of books, this one included, covering the new language features.
 
-The "You dont know JS" series is intended to cover JavaScript comprehensively and deeply -- a sort of inverse of Douglas Crockford's "JavaScript: the good parts" it sets out to cover all the parts, good, bad or otherwise. In the words of the series preface:[^series-preface]
+The "You don't know JS" series is intended to cover JavaScript comprehensively and deeply -- a sort of inverse of Douglas Crockford's "JavaScript: the good parts" it sets out to cover all the parts, good, bad or otherwise. In the words of the series preface:[^series-preface]
 
 > JavaScript is awesome. It's easy to learn partially, and much harder to learn completely (or even sufficiently). When developers encounter confusion, they usually blame the language instead of their lack of understanding. These books aim to fix that, inspiring a strong appreciation for the language you can now, and should, deeply know.
 

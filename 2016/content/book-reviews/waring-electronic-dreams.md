@@ -27,7 +27,7 @@ it would be possible to have a prototype ready by the end of the week, as a way
 of spurring them on.
 
 Even though I have read widely about the period in question, there were still
-some new facts and tidbits to enjoy. For example, I'd somehow managed to miss
+some new facts and titbits to enjoy. For example, I'd somehow managed to miss
 Prestel, the Post Office system which could be seen as an early version of
 the World Wide Web. Also, whilst the information on the Acorn, Spectrum and
 Commodore machines didn't cover anytthing new to me, the Oric computer was

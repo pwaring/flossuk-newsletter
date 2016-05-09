@@ -70,12 +70,12 @@ Ansible needs Python 2 and ssh and runs on many OS's and scales up and down.
 Paul ran through the basics of Ansible:
 
  * Configuration contains global options, that's to say options that apply to all nodes. The file has a format similar to that of a Windows INI file.
- * There is an inventory file. This lists individial managed nodes and allows global options to be overridden. Similar nodes can be grouped.
+ * There is an inventory file. This lists individual managed nodes and allows global options to be overridden. Similar nodes can be grouped.
  * Ansible modules. These are an abstraction of functionality, and as an example can be used to create accounts. Paul described the different types of modules. There are core modules, extras and third party modules.
 
 Playbooks are list of tasks to run on nodes. They are Ansible’s configuration, deployment, and orchestration language. They can describe a policy you want your remote systems to enforce, or a set of steps in a general IT process. If Ansible modules are the tools in your workshop, playbooks are your design plans.
 
-Paul explained the differences between imperative vs declarative code and the virtues of using list comprehensions rather than loops. For more information the use of playbooks see the project documentation.[^ansible-docs]
+Paul explained the differences between imperative vs declarative code and the virtues of using list comprehensions rather than loops. For more information on the use of playbooks see the project documentation.[^ansible-docs]
 
 [^ansible-docs]: [http://docs.ansible.com/ansible/playbooks.html](http://docs.ansible.com/ansible/playbooks.html)
 
