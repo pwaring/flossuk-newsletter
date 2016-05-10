@@ -4,7 +4,7 @@ Thank you to all the members who have paid their subscription invoice promptly
 this year.  We have recently chased the outstanding subscriptions and hope the
 remaining payments will come in promptly.
 
-The Perl tutorials, held week beginning 8th February, again got very high marks
+The Perl tutorials, held the week beginning 8th February, again got very high marks
 from all who attended.  The feedback on the questionnaires show that the Perl
 tutorials are always very well received by our membership.
 
