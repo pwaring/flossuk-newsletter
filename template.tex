@@ -237,9 +237,36 @@ $endif$
 
 \begin{document}
 
-$if(title)$
-\maketitle
-$endif$
+\begingroup
+
+  \thispagestyle{empty}
+  \includegraphics[height=18.5mm]{images/flossuksmaller}\hfill {\fontsize{32}{32}\selectfont
+  \sffamily
+  \textbf{news@UK}
+  }
+  \centerline{
+  \small
+  \sffamily
+  \textit{The newsletter of FLOSS UK, the new name for the UK's oldest Open Systems User Group, UKUUG}
+  }
+  \centerline{
+  \small
+  \sffamily
+  Published electronically at
+  \texttt{http://www.flossuk.org/newsletter}
+  }
+  \vspace{1 mm}
+  \hrule
+
+  \vspace{-1 mm}
+  \sffamily
+  \bfseries Volume 25, Number 1\vspace{1 mm}
+  \hfill
+  ISSN 0965-9412\hfill
+  % </number>
+  May 2016\vspace{0 mm}
+  \hrule
+\endgroup
 
 $for(include-before)$
 $include-before$
@@ -260,6 +287,10 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+
+% Always put a page break after the table of contents
+\pagebreak
+
 $body$
 
 $if(natbib)$
