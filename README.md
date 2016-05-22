@@ -9,3 +9,5 @@ In order to build the newsletter you will need:
  * Bash
  * Pandoc
  * pdfTeX
+ * GNU sed (available via Homebrew on OS X)
+ 
